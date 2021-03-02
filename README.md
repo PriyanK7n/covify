@@ -2,7 +2,7 @@
 -----
 ## Dataset:
 The Dataset is available on [kaggle](https://www.kaggle.com/plameneduardo/sarscov2-ctscan-dataset)
------
+
 ![](https://github.com/PriyanK7n/covify/blob/main/images/Screenshot%202021-03-03%20at%2012.50.52%20AM.png)
 
 ![](https://github.com/PriyanK7n/covify/blob/main/images/Screenshot%202021-03-03%20at%2012.43.31%20AM.png)
