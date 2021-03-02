@@ -1,0 +1,2 @@
+- Images with file name containing c are Covid
+- Images with file name containing n are Non-Covid`
