@@ -1,4 +1,7 @@
 # Covid 19 Infection Detection using DeepLearning
+Blogposts are avilable on:
+- [BlogPost1](https://priyank7n.github.io/fastblogs/2021/01/23/covify-code.html), "Code"
+- [BlogPost2](https://priyank7n.github.io/fastblogs/2021/01/20/Covify-GUI.html), "GUI"
 -----
 ## Dataset:
 The Dataset is available on [kaggle](https://www.kaggle.com/plameneduardo/sarscov2-ctscan-dataset)
