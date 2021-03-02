@@ -1,3 +1,4 @@
-# covid_app
+# Covid 19 Infection Detection
 
-The models of My project are in Google Drive:(https://drive.google.com/file/d/1xSrqIVVmEqA8OMP3IfvhemIv6tHLO0mQ/view?usp=sharing)[link]
+The models of My project are stored in Google Drive: ![link](https://drive.google.com/file/d/1xSrqIVVmEqA8OMP3IfvhemIv6tHLO0mQ/view?usp=sharing)
+
