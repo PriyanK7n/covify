@@ -1,0 +1,6 @@
+fastai
+fastai2_extensions
+numpy
+pandas
+matplotlib
+voila
