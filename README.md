@@ -1,8 +1,10 @@
 # Covid 19 Infection Detection using DeepLearning
-Blogposts are avilable on:
+> This Project aims to be used for early detection fo Covid-19 and aims to predict  wether the person is infected with Covid or not using when given a Chest CT Scan image of using Deep Learning.
+
+`Blogposts` are avilable on:
 - [BlogPost1](https://priyank7n.github.io/fastblogs/2021/01/23/covify-code.html), "Code"
 - [BlogPost2](https://priyank7n.github.io/fastblogs/2021/01/20/Covify-GUI.html), "GUI"
------
+
 ## Dataset:
 The Dataset is available on [kaggle](https://www.kaggle.com/plameneduardo/sarscov2-ctscan-dataset)
 
@@ -15,8 +17,17 @@ The Dataset is available on [kaggle](https://www.kaggle.com/plameneduardo/sarsco
 ## Models:
 The Models trained on my project are stored in [GoogleDrive](https://drive.google.com/file/d/1xSrqIVVmEqA8OMP3IfvhemIv6tHLO0mQ/view?usp=sharing)
 
-----
-Installation
+## GradCam:
+
+The GradCam object takes in 3 args:
+These steps are shown below one by one and later combined in a Learner.gradcam call
+
+- learn: a fastai Learner
+- fname: path to the image file to draw the heatcam over
+- labels: list of labels to draw the heatmap for. If None, draws for the highest predicted class.
+
+
+Installation:
 ~~~~~~~~~~~~
 
 GIT:
