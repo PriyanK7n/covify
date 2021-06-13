@@ -2,8 +2,8 @@
 > This Project aims to be used for early detection fo Covid-19 and aims to predict  wether the person is infected with Covid or not using when given a Chest CT Scan image of using Deep Learning.
 
 `Blogposts` are avilable on:
-- [BlogPost1](https://priyank7n.github.io/fastblogs/2021/01/23/covify-code.html), "Code"
-- [BlogPost2](https://priyank7n.github.io/fastblogs/2021/01/20/Covify-GUI.html), "GUI"
+- [BlogPost1](https://priyank7n.me/2021/01/23/covify-code.html), "Code"
+- [BlogPost2](https://priyank7n.me/2021/01/20/Covify-GUI.html), "GUI"
 
 ## Dataset:
 The Dataset is available on [kaggle](https://www.kaggle.com/plameneduardo/sarscov2-ctscan-dataset)
